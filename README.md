@@ -43,7 +43,6 @@
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 </div>
-
 ---
 
 ## </> Projects
