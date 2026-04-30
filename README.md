@@ -46,7 +46,13 @@
 
 ---
 
-## 🚀 Projects
+## </> Projects
+
+### 📁 Content Created
+
+Check more on my Instagram profile — [@ved.official.in](https://www.instagram.com/ved.official.in)
+
+### 📁 Projects Created
 
 ### 📡 Ultrasonic Radar System
 > **Hardware · Data Visualization**
