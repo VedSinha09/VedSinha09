@@ -64,9 +64,9 @@ Check more on my Instagram profile — [@ved.official.in](https://www.instagram.
 
 ---
 
-## 🎓 Education
+## 🎓 Academic Path
 
-| Institution | Qualification | Period |
+| Institution | Qualification | Time Period |
 |---|---|---|
 | Gautam Buddha University | B.Tech – Computer Science Engineering | 2024 – In Progress |
 | Sri Ram Global School | Secondary Education – PCM Stream | Aug 2022 – Apr 2024 |
@@ -75,7 +75,7 @@ Check more on my Instagram profile — [@ved.official.in](https://www.instagram.
 
 ---
 
-## 📊 GitHub Stats
+## 📊  My GitHub Stats
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Check more on my Instagram profile — [@ved.official.in](https://www.instagram.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vedsinha09.github.io-3C3489?style=for-the-badge&logo=firefox&logoColor=white)](https://vedsinha09.github.io/connect/)
 [![Instagram](https://img.shields.io/badge/Instagram-Projects_&_Content-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vedsinha09-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedsinha09)
 > 💬 *Have a project in mind? Drop me a word and let's get it done.*
 
 </div>
