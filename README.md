@@ -67,7 +67,7 @@ Check more on my Instagram profile — [@ved.official.in](https://www.instagram.
 
 | Institution | Qualification | Time Period |
 |---|---|---|
-| Gautam Buddha University | B.Tech – Computer Science Engineering | 2024 – In Progress |
+| Gautam Buddha University | B.Tech – Computer Science Engineering | 2025 – In Progress |
 | Sri Ram Global School | Secondary Education – PCM Stream | Aug 2022 – Apr 2024 |
 | Sarvottam International School | Middle School – PCM Stream | Apr 2019 – Jul 2024 |
 | Gyan Bharati School | Foundational Education | Apr 2011 – Mar 2019 |
